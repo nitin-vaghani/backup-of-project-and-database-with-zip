@@ -1,0 +1,7 @@
+Copy and Past below given zip.php in your root
+
+Add below command in crontab -e
+
+>_ 0 0 * * * wget -q http://myprojectdomain.com/zip.php
+
+Daily Backup...
