@@ -1,0 +1,3 @@
+* * * * * mysqldump -u root dbname > /var/www/backups/backup.sql
+* * * * * mysqldump -u root dbname > /var/www/backups/backups.sql.gz
+* * * * * mysqldump -u root -p password dbname > /var/www/backups/backup.sql
